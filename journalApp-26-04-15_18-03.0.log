@@ -1,0 +1,38 @@
+26-04-15 18:03:29.613 [main] INFO  c.s.j.JournalApplication - Starting JournalApplication using Java 21.0.8 with PID 23632 (D:\learningSpringBoot\learningSpringBoot\target\classes started by shind in D:\learningSpringBoot) 
+26-04-15 18:03:29.619 [main] INFO  c.s.j.JournalApplication - No active profile set, falling back to 1 default profile: "default" 
+26-04-15 18:03:30.429 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode 
+26-04-15 18:03:30.430 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+26-04-15 18:03:30.537 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 100 ms. Found 2 JPA repository interfaces. 
+26-04-15 18:03:30.553 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode 
+26-04-15 18:03:30.553 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode. 
+26-04-15 18:03:30.567 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.springYT.journalappBackend.repository.JournalEntryRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository 
+26-04-15 18:03:30.567 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.springYT.journalappBackend.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository 
+26-04-15 18:03:30.567 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces. 
+26-04-15 18:03:31.145 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http) 
+26-04-15 18:03:31.147 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+26-04-15 18:03:31.155 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+26-04-15 18:03:31.155 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.17] 
+26-04-15 18:03:31.214 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+26-04-15 18:03:31.214 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1535 ms 
+26-04-15 18:03:31.385 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default] 
+26-04-15 18:03:31.447 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.1.Final 
+26-04-15 18:03:31.487 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled 
+26-04-15 18:03:31.704 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer 
+26-04-15 18:03:31.743 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting... 
+26-04-15 18:03:31.866 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6bfdaa7a 
+26-04-15 18:03:31.871 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed. 
+26-04-15 18:03:32.562 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration) 
+26-04-15 18:03:32.610 [main] DEBUG org.hibernate.SQL - create table journal_entries (id bigserial not null, content varchar(255), date timestamp(6), sentiment smallint check (sentiment between 0 and 9), title varchar(255), user_id bigint, primary key (id)) 
+26-04-15 18:03:32.669 [main] DEBUG org.hibernate.SQL - alter table if exists journal_entries add constraint FKo39gbcpt8kwv3d7qirn4uikua foreign key (user_id) references users 
+26-04-15 18:03:32.704 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+26-04-15 18:03:33.164 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+26-04-15 18:03:33.469 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@7672dd7a, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1aee0f49, org.springframework.security.web.context.SecurityContextHolderFilter@5d4af473, org.springframework.security.web.header.HeaderWriterFilter@163cd4a6, org.springframework.web.filter.CorsFilter@7a80ebcd, org.springframework.security.web.authentication.logout.LogoutFilter@47bae235, com.springYT.journalappBackend.filter.JwtFilter@7f65639e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3dc5eb8f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1d4b0a07, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@365eaef, org.springframework.security.web.session.SessionManagementFilter@18d8da77, org.springframework.security.web.access.ExceptionTranslationFilter@16bbb59c, org.springframework.security.web.access.intercept.AuthorizationFilter@59d6a4d1] 
+26-04-15 18:03:34.201 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+26-04-15 18:03:34.225 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '' 
+26-04-15 18:03:34.237 [main] INFO  c.s.j.JournalApplication - Started JournalApplication in 4.959 seconds (process running for 5.425) 
+26-04-15 18:03:48.277 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+26-04-15 18:03:48.277 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+26-04-15 18:03:48.279 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms 
+26-04-15 18:03:48.605 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - select u1_0.id,u1_0.email,u1_0.password,u1_0.sentiment_analysis,u1_0.username from users u1_0 where u1_0.username=? 
+26-04-15 18:03:48.630 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - select r1_0.user_id,r1_0.roles from user_roles r1_0 where r1_0.user_id=? 
+26-04-15 18:03:48.720 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - select u1_0.id,u1_0.email,u1_0.password,u1_0.sentiment_analysis,u1_0.username from users u1_0 where u1_0.username=? 

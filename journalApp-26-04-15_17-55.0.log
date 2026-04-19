@@ -1,0 +1,383 @@
+26-04-15 17:55:00.020 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:00.024 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:00.024 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:00.315 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:00.316 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:00.316 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:00.755 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:00.755 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:00.756 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:01.437 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:01.438 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:01.438 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:02.653 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:02.653 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:02.653 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:03.650 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:03.650 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:03.650 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:04.803 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:04.804 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:04.804 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:05.692 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:05.693 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:05.693 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:06.883 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:06.883 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:06.883 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:07.971 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:07.973 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:07.973 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:09.054 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:09.054 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:09.054 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:31.548 [main] INFO  c.s.j.JournalApplication - Starting JournalApplication using Java 21.0.8 with PID 36852 (D:\learningSpringBoot\learningSpringBoot\target\classes started by shind in D:\learningSpringBoot) 
+26-04-15 17:55:31.549 [main] INFO  c.s.j.JournalApplication - No active profile set, falling back to 1 default profile: "default" 
+26-04-15 17:55:32.274 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode 
+26-04-15 17:55:32.275 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+26-04-15 17:55:32.367 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 94 ms. Found 2 JPA repository interfaces. 
+26-04-15 17:55:32.400 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode 
+26-04-15 17:55:32.401 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode. 
+26-04-15 17:55:32.401 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.springYT.journalappBackend.repository.JournalEntryRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository 
+26-04-15 17:55:32.401 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.springYT.journalappBackend.repository.UserRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository 
+26-04-15 17:55:32.401 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces. 
+26-04-15 17:55:33.042 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http) 
+26-04-15 17:55:33.063 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+26-04-15 17:55:33.065 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+26-04-15 17:55:33.066 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.17] 
+26-04-15 17:55:33.140 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+26-04-15 17:55:33.140 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1553 ms 
+26-04-15 17:55:33.281 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default] 
+26-04-15 17:55:33.349 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.1.Final 
+26-04-15 17:55:33.371 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled 
+26-04-15 17:55:33.580 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer 
+26-04-15 17:55:33.598 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting... 
+26-04-15 17:55:33.695 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1d556461 
+26-04-15 17:55:33.695 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed. 
+26-04-15 17:55:34.346 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration) 
+26-04-15 17:55:34.389 [main] DEBUG org.hibernate.SQL - alter table if exists journal_entries alter column sentiment set data type smallint 
+26-04-15 17:55:34.394 [main] WARN  o.h.t.s.i.ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "alter table if exists journal_entries alter column sentiment set data type smallint" via JDBC [ERROR: column "sentiment" cannot be cast automatically to type smallint
+  Hint: You might need to specify "USING sentiment::smallint".] 
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table if exists journal_entries alter column sentiment set data type smallint" via JDBC [ERROR: column "sentiment" cannot be cast automatically to type smallint
+  Hint: You might need to specify "USING sentiment::smallint".]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:94)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:574)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:514)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.migrateTable(AbstractSchemaMigrator.java:333)
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:84)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:232)
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:117)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:286)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.lambda$process$5(SchemaManagementToolCoordinator.java:145)
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:142)
+	at org.hibernate.boot.internal.SessionFactoryObserverForSchemaExport.sessionFactoryCreated(SessionFactoryObserverForSchemaExport.java:37)
+	at org.hibernate.internal.SessionFactoryObserverChain.sessionFactoryCreated(SessionFactoryObserverChain.java:35)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:315)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:450)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1507)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:75)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1820)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1769)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:365)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:135)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveConstructorArguments(ConstructorResolver.java:689)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1164)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:561)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:365)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:135)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1684)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1433)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1418)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1418)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:204)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.getOrderedBeansOfType(ServletContextInitializerBeans.java:210)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:173)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:168)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAdaptableBeans(ServletContextInitializerBeans.java:153)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.<init>(ServletContextInitializerBeans.java:86)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getServletContextInitializerBeans(ServletWebServerApplicationContext.java:266)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.selfInitialize(ServletWebServerApplicationContext.java:240)
+	at org.springframework.boot.web.embedded.tomcat.TomcatStarter.onStartup(TomcatStarter.java:52)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4850)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:845)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:240)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:917)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:488)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:126)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:105)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:499)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:218)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:188)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:762)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:464)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1358)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1347)
+	at com.springYT.journalappBackend.JournalApplication.main(JournalApplication.java:15)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "sentiment" cannot be cast automatically to type smallint
+  Hint: You might need to specify "USING sentiment::smallint".
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2713)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2401)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:368)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:498)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:415)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:335)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:321)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:297)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:292)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:80)
+	... 123 common frames omitted
+26-04-15 17:55:34.431 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+26-04-15 17:55:35.066 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+26-04-15 17:55:35.371 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@130a99fe, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@31773d5b, org.springframework.security.web.context.SecurityContextHolderFilter@35129b9e, org.springframework.security.web.header.HeaderWriterFilter@3d41449a, org.springframework.web.filter.CorsFilter@5bbf8daa, org.springframework.security.web.authentication.logout.LogoutFilter@755057c7, com.springYT.journalappBackend.filter.JwtFilter@61c11339, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2297c8bf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@154fcedd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@33c5e52f, org.springframework.security.web.session.SessionManagementFilter@5529fd4e, org.springframework.security.web.access.ExceptionTranslationFilter@7e113065, org.springframework.security.web.access.intercept.AuthorizationFilter@365291bd] 
+26-04-15 17:55:35.995 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+26-04-15 17:55:36.011 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '' 
+26-04-15 17:55:36.058 [main] INFO  o.a.k.c.consumer.ConsumerConfig - ConsumerConfig values: 
+	allow.auto.create.topics = true
+	auto.commit.interval.ms = 5000
+	auto.include.jmx.reporter = true
+	auto.offset.reset = latest
+	bootstrap.servers = [localhost:9092]
+	check.crcs = true
+	client.dns.lookup = use_all_dns_ips
+	client.id = consumer-weekly-sentiment-group-1
+	client.rack = 
+	connections.max.idle.ms = 540000
+	default.api.timeout.ms = 60000
+	enable.auto.commit = false
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = weekly-sentiment-group
+	group.instance.id = null
+	heartbeat.interval.ms = 3000
+	interceptor.classes = []
+	internal.leave.group.on.close = true
+	internal.throw.on.fetch.stable.offset.unsupported = false
+	isolation.level = read_uncommitted
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor, class org.apache.kafka.clients.consumer.CooperativeStickyAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	session.timeout.ms = 45000
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+ 
+26-04-15 17:55:36.181 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.6.1 
+26-04-15 17:55:36.181 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 5e3c2b738d253ff5 
+26-04-15 17:55:36.181 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1776255936181 
+26-04-15 17:55:36.181 [main] INFO  o.s.k.c.DefaultKafkaConsumerFactory$ExtendedKafkaConsumer - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Subscribed to topic(s): weekly-sentiments 
+26-04-15 17:55:36.207 [main] INFO  c.s.j.JournalApplication - Started JournalApplication in 4.957 seconds (process running for 5.421) 
+26-04-15 17:55:36.407 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:36.408 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:36.408 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:36.516 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:36.516 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:36.516 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:36.633 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:36.633 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:36.633 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:36.875 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:36.875 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:36.875 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:37.284 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:37.284 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:37.284 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:38.144 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:38.144 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:38.144 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:39.360 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:39.361 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:39.361 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:40.327 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:40.328 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:40.328 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:41.464 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:41.464 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:41.464 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:42.586 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:42.587 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:42.587 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:43.452 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:43.452 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:43.452 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:44.400 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:44.400 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:44.400 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:45.567 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:45.576 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:45.576 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:46.615 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:46.615 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:46.615 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:47.648 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:47.649 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:47.649 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:48.684 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:48.684 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:48.684 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:49.815 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:49.815 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:49.815 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:50.991 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:50.991 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:50.991 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:52.181 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:52.181 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:52.181 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:53.090 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:53.090 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:53.090 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:54.244 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:54.244 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:54.244 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:55.397 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:55.397 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:55.397 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:56.284 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:56.284 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:56.284 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:57.198 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:57.198 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:57.199 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:58.099 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:58.100 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:58.100 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 
+26-04-15 17:55:59.228 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Node -1 disconnected. 
+26-04-15 17:55:59.228 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. 
+26-04-15 17:55:59.228 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] WARN  o.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-weekly-sentiment-group-1, groupId=weekly-sentiment-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected 

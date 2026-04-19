@@ -1,0 +1,4 @@
+26-04-19 12:30:32.191 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select u1_0.id,u1_0.email,u1_0.password,u1_0.sentiment_analysis,u1_0.username from users u1_0 where u1_0.username=? 
+26-04-19 12:30:32.199 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select r1_0.user_id,r1_0.roles from user_roles r1_0 where r1_0.user_id=? 
+26-04-19 12:30:32.210 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select u1_0.id,u1_0.email,u1_0.password,u1_0.sentiment_analysis,u1_0.username from users u1_0 where u1_0.username=? 
+26-04-19 12:30:32.241 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select je1_0.user_id,je1_0.id,je1_0.content,je1_0.date,je1_0.sentiment,je1_0.title from journal_entries je1_0 where je1_0.user_id=? 
