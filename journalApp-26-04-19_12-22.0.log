@@ -1,5 +1,0 @@
-26-04-19 12:22:45.279 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
-26-04-19 12:22:45.281 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
-26-04-19 12:22:45.282 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms 
-26-04-19 12:22:45.557 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - insert into users (email,password,sentiment_analysis,username) values (?,?,?,?) 
-26-04-19 12:22:45.591 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - insert into user_roles (user_id,roles) values (?,?) 

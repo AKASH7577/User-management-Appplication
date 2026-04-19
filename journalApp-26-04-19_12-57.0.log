@@ -1,0 +1,2 @@
+26-04-19 12:57:58.785 [main] INFO  c.s.j.JournalApplication - Starting JournalApplication using Java 21.0.8 with PID 31928 (D:\learningSpringBoot\learningSpringBoot\target\classes started by shind in D:\learningSpringBoot) 
+26-04-19 12:57:58.792 [main] INFO  c.s.j.JournalApplication - No active profile set, falling back to 1 default profile: "default" 
