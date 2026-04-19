@@ -1,7 +1,0 @@
-26-04-19 17:42:00.383 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] DEBUG org.hibernate.SQL - insert into journal_entries (content,date,sentiment,title,user_id) values (?,?,?,?,?) 
-26-04-19 17:42:20.813 [http-nio-8080-exec-4] DEBUG org.hibernate.SQL - select u1_0.id,u1_0.email,u1_0.password,u1_0.sentiment_analysis,u1_0.username from users u1_0 where u1_0.username=? 
-26-04-19 17:42:20.815 [http-nio-8080-exec-4] DEBUG org.hibernate.SQL - select r1_0.user_id,r1_0.roles from user_roles r1_0 where r1_0.user_id=? 
-26-04-19 17:42:20.872 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] DEBUG org.hibernate.SQL - insert into journal_entries (content,date,sentiment,title,user_id) values (?,?,?,?,?) 
-26-04-19 17:42:30.534 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - select u1_0.id,u1_0.email,u1_0.password,u1_0.sentiment_analysis,u1_0.username from users u1_0 where u1_0.username=? 
-26-04-19 17:42:30.535 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - select r1_0.user_id,r1_0.roles from user_roles r1_0 where r1_0.user_id=? 
-26-04-19 17:42:30.592 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] DEBUG org.hibernate.SQL - insert into journal_entries (content,date,sentiment,title,user_id) values (?,?,?,?,?) 
